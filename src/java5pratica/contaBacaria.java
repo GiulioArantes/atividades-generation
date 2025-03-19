@@ -2,7 +2,7 @@ package java5pratica;
 
 import java.util.Scanner;
 
-public class contaBacaria {
+public class ContaBacaria {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int operacao;
